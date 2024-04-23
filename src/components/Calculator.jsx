@@ -1,3 +1,7 @@
+/**
+ * The Calculator component manages the calculator layout and integrates the calculator logic with the display.
+ * It renders the display and calculator buttons, and handles their interactions.
+ */
 import Display from './Display';
 import useCalculatorLogic from '../utils/useCalculatorLogic';
 

@@ -1,3 +1,8 @@
+/**
+ * Custom React hook that encapsulates the state and logic for a calculator.
+ * It manages the state for display value, operations, and inputs.
+ * @returns {Object} An object containing the display value and functions for modifying it based on user interactions.
+ */
 import { useState } from 'react';
 import { calculate } from './calculatorFunctions';
 
