@@ -1,5 +1,5 @@
 import PropTypes from 'prop-types';
-import './css/Display.css';
+
 
 function Display({ value }) {
   return (
