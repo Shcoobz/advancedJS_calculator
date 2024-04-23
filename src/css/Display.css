@@ -1,0 +1,18 @@
+.calculator-display {
+  background: black;
+  color: white;
+  margin: 0;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  border-radius: 10px 10px 0 0;
+}
+
+.calculator-display h1 {
+  margin: 0;
+  padding: 25px;
+  font-size: 45px;
+  font-family: 'Lucida Console', sans-serif;
+  font-weight: 100;
+  overflow-x: auto;
+}
