@@ -40,4 +40,6 @@ The calculator is fully responsive, making it accessible on a wide range of devi
 
 ---
 
-_Note: This document provides an overview of react_Calculator. For detailed instructions and more information, please refer to the source code documentation. This project is a conversion from an earlier version built with vanilla JavaScript and HTML, available [here](https://github.com/Shcoobz/basicJS_calculator/). This conversion integrates React to enhance UI reactivity and maintainability._
+_Note: This document provides an overview of react_Calculator. For detailed instructions and more information, please refer to the source code documentation._
+
+_This project is a conversion from an earlier version built with vanilla JavaScript and HTML, available [here](https://github.com/Shcoobz/basicJS_calculator/). This conversion integrates React to enhance UI reactivity and maintainability._
