@@ -1,6 +1,6 @@
 # react_Calculator: [LIVE DEMO](https://shcoobz.github.io/react_calculator/)
 
-![react_Calculator](img/react_calculator.png)
+![react_Calculator](src/img/react_calculator.png)
 
 ## Summary
 
