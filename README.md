@@ -1,10 +1,10 @@
-# react_Calculator: [LIVE DEMO](https://shcoobz.github.io/react_calculator/)
+# advancedJS_Calculator: [LIVE DEMO](https://shcoobz.github.io/advancedJS_calculator/)
 
-![react_Calculator](src/img/react_calculator.png)
+![advancedJS_Calculator](src/img/advancedJS_calculator.png)
 
 ## Summary
 
-react_Calculator provides a simple yet powerful interface for performing various mathematical calculations. It features a user-friendly interface, complete with a grid of numeric and operator buttons.
+advancedJS_Calculator provides a simple yet powerful interface for performing various mathematical calculations. It features a user-friendly interface, complete with a grid of numeric and operator buttons.
 
 The core functionality includes:
 
@@ -40,6 +40,6 @@ The calculator is fully responsive, making it accessible on a wide range of devi
 
 ---
 
-_Note: This document provides an overview of react_Calculator. For detailed instructions and more information, please refer to the source code documentation._
+_Note: This document provides an overview of advancedJS_Calculator. For detailed instructions and more information, please refer to the source code documentation._
 
 _This project is a conversion from an earlier version built with vanilla JavaScript and HTML, available [here](https://github.com/Shcoobz/basicJS_calculator/). This conversion integrates React to enhance UI reactivity and maintainability._
